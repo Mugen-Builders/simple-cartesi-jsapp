@@ -4,8 +4,8 @@
   "description": "JS DApp",
   "type": "module",
   "dependencies": {
-    "cartesi-router": "^1.0.2",
-    "cartesi-wallet": "^1.0.1",
+    "cartesi-router": "^1.0.4",
+    "cartesi-wallet": "^1.0.4",
     "ethers": "^6.7.1",
     "viem": "^2.7.6"
   },
